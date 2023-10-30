@@ -1,0 +1,3 @@
+OPENAI_API_KEY="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"
+#OPENAI_API_KEY= "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"
+base = "dark"
